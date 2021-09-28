@@ -1,7 +1,7 @@
 import { Request, Response } from 'express';
 import CreateCustomerService from '../services/CreateCustomerServicer';
 import DeleteCustomerService from '../services/DeleteCustomerService';
-import ListCustomerService from '../services/LsitCustomerService';
+import ListCustomerService from '../services/ListCustomerService';
 import ShowCustomerService from '../services/ShowCustomerService';
 import UpdateCustomerService from '../services/UpdateCustomerService';
 
